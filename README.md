@@ -3,21 +3,6 @@
 - 👩🏻‍💻 Bacharelanda em Ciência da Computação pela UEPB.
 - ⌨️ Estudando C++.
 
-<div>
-  <picture>
-    <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eduardanb&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-      />
-    <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eduardanb&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-    <img src="https://github-readme-stats.vercel.app/api?username=eduardanb&show_icons=true" />
-  </picture>
-</div>
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
