@@ -1,7 +1,7 @@
 ### Oi, eu sou a Maria Eduarda. 👋
 
 - 👩🏻‍💻 Estudante de Ciência da Computação pela UEPB.
-- ⌨️ Estudando Java, HTML e CSS.
+- ⌨️ Estudando as tecnologias front-end.
 
 
 <div style="display: inline_block"><br>
