@@ -25,7 +25,20 @@ Sou estudante de **Ciência da Computação** pela **UEPB** e **Técnica em Info
 ##
 
 ## 📊 GitHub Stats  
-<p>  
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=eduardanb&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>  
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardanb&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>  
-</p>  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=eduardanb&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardanb&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
