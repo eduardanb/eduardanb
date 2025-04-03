@@ -17,8 +17,9 @@ Sou estudante de **Ciência da Computação** pela **UEPB** e **Técnica em Info
 
 ## 📩 Entre em contato comigo  
 <div> 
+  <a href="mailto:eduardanbg2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://instagram.com/eduardanbg_?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
-  <a href="mailto:eduardanbg2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-da-n%C3%B3brega-15a04728a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 </div>  
 
