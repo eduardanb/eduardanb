@@ -1,6 +1,6 @@
 # 👩🏻‍💻 | Olá, eu sou a Maria Eduarda!  
 
-Sou estudante de **Ciência da Computação** pela **UEPB** e **Técnica em Informática** pelo **IFPB**. Atualmente, estou aprofundando meus estudos em **front-end, back-end e Inteligência Artificial**, sempre em busca de novos desafios e aprendizados.  
+Sou estudante de **Ciência da Computação** pela **UEPB** e **Técnica em Informática** pelo **IFPB**. Atualmente, estou aprofundando meus estudos em **front-end, back-end e Inteligência Artificial,** sempre em busca de novos desafios e aprendizados.  
 
 ## 🚀 Tecnologias e Linguagens  
 <div style="display: inline_block"><br>
