@@ -30,7 +30,7 @@ Sou estudante de **Ciência da Computação** pela **UEPB** e **Técnica em Info
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=eduardanb&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
