@@ -28,11 +28,11 @@ Sou estudante de **Ciência da Computação** pela **UEPB** e **Técnica em Info
 
 ## 📊 GitHub Stats  
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img 
+    <!--<img 
         src="https://github-readme-stats.vercel.app/api?username=eduardanb&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
         height="180" 
         alt="GitHub Stats" 
-    />
+    />-->
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardanb&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
         height="180" 
